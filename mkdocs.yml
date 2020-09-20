@@ -20,6 +20,8 @@ plugins:
 markdown_extensions:
   - pymdownx.highlight
   - pymdownx.superfences
+
+repo_url: https://github.com/zcmimi/py-blog
 nav:
   - 关于: index.md
   - 快速开始: 快速开始.md
