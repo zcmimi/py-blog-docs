@@ -4,8 +4,6 @@ copyright: Copyright &copy; 2019 - 2020 zcmimi
 theme:
   name: material
   language: 'zh'
-  feature:
-    tabs: true
   palette:
     scheme: default
     primary: blue
