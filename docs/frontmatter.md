@@ -1,4 +1,4 @@
-```markdown
+```yaml
 ---
 title: 标题
 date: 2020-09-01 08:00
@@ -33,7 +33,7 @@ author: zcmimi
 |`categories`|分类|空|
 |`top`|置顶优先级(越大越高)|0|
 |`password`|密码|空|
-|`layout`|布局|文章为post,分页为page,修改该项请参照所使用主题的说明|
+|`layout`|布局|文章为`post`,分页为`page`,修改该项请参照所使用主题的说明|
 |自定义变量名|自定义文章的其他信息|请参照所使用主题的说明|
 
 > **tips:**
