@@ -6,6 +6,8 @@ A fast and useful static blog builder, based on `python3`
 
 [github仓库地址](https://github.com/zcmimi/py-blog)
 
+<a href="/快速开始与命令/" style="border: solid 2px;padding: 7px;font-size: 25px;">快速开始</a>
+
 ## 特点
 
 1. 简单、易用,只需要安装`python3`与`pip`即可使用

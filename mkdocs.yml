@@ -22,7 +22,7 @@ markdown_extensions:
 repo_url: https://github.com/zcmimi/py-blog
 nav:
   - 关于: index.md
-  - 快速开始: 快速开始.md
+  - 快速开始与命令: 快速开始与命令.md
   - 自定义配置: 自定义配置.md
   - 开始写作: 开始写作.md
   - 资源文件夹: 资源文件夹.md
@@ -34,5 +34,6 @@ nav:
   - 开发主题:
     - 开发主题: develop_theme/开发主题.md
     - setting.yml: develop_theme/setting.yml.md
-    - 预设变量名与含义: develop_theme/变量名与含义.md
+    - 页面预设变量名与含义: develop_theme/变量名与含义.md
     - markdown: develop_theme/markdown.md
+    - 文章加密: develop_theme/encrypt.md
