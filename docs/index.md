@@ -1,5 +1,7 @@
 ## py-blog
 
+<center>![](/img/Pb.svg)</center>
+
 A fast and useful static blog builder, based on `python3`
 
 一个快速实用的静态博客生成器,基于`python3`

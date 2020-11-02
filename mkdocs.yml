@@ -8,6 +8,8 @@ theme:
     scheme: default
     primary: blue
     accent: red
+  logo: /img/Pb.svg
+  favicon: /img/Pb.svg
 plugins:
   - search
   - minify:
